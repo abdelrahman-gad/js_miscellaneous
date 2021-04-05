@@ -1,5 +1,7 @@
 
 
+
+// using differne ttypes with functions makes this referes to differnt contexts 
 let circle= {
     radius:10,
     circumfrence:function(){
